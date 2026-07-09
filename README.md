@@ -1,6 +1,6 @@
 <div align="center">
 
-# Amir Akbari
+# Amirali Akbari
 
 ### Frontend Developer • React Enthusiast • Future Full Stack Engineer
 
