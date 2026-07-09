@@ -74,16 +74,15 @@ Currently, my main focus is mastering the React ecosystem before moving into bac
 ![TailwindCss](https://img.shields.io/badge/TailwindCss-0EA5E9?logo=TailwindCss&logoColor=white&style=for-the-badge)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white&style=for-the-badge)
 
 ![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=black&style=for-the-badge)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
-![NextJs](https://img.shields.io/badge/NextJs-000000?logo=Next.js&logoColor=white&style=for-the-badge)
+![Tanstack](https://img.shields.io/badge/TanStack_Query-160440?style=for-the-badge&logo=react-query)
+![RadixUI](https://img.shields.io/badge/Radix_UI-161618?style=flat&logo=radixui&logoColor=white)
+![FramerMotion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
 
-![Jest](https://img.shields.io/badge/Jest-df162b?logo=Jest&logoColor=white&style=for-the-badge)
-![ReactTestingLibrary](https://img.shields.io/badge/ReactTestingLibrary-000?logo=TestingLibrary&logoColor=red&style=for-the-badge)
-![Cypress](https://img.shields.io/badge/Cypress-000?logo=Cypress&logoColor=00595d&style=for-the-badge)
+
 
 ![Npm](https://img.shields.io/badge/Npm-CB3837?logo=Npm&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=for-the-badge)
