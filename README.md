@@ -67,7 +67,7 @@ Currently, my main focus is mastering the React ecosystem before moving into bac
 # ⚡ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode&perline=4" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,framer,vite,git,github,vscode,reactrouter,radixui&perline=4" />
 </p>
 
 ---
