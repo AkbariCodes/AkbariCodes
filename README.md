@@ -45,14 +45,12 @@ Currently, my main focus is mastering the React ecosystem before moving into bac
 
 📖 Learning Now
 
-🟣 REST API
+🟣 TanStack Query
 
 ──────────────────────────────
 
 📌 Next Steps
 
-→ Axios
-→ TanStack Query
 → Zustand
 → TypeScript
 → Next.js
