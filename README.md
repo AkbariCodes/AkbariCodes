@@ -1,125 +1,109 @@
 <div align="center">
 
-# Amirali Akbari
+# 👋 Hey, I'm **Amirali Akbari**
 
-### Frontend Developer • React Enthusiast • Future Full Stack Engineer
+### Frontend Developer • React Enthusiast
 
-> **Building modern experiences with clean code.**
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=2000&color=A855F7&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+Developer;Always+Learning;Building+Real+Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1200&color=A855F7&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+Developer;Building+Modern+Web+Apps;Future+Full+Stack+Developer" />
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-I'm **Amir**, a frontend developer passionate about creating fast, responsive and modern web applications.
+I'm **Amirali Akbari**, a frontend developer passionate about building modern, responsive and user-friendly web applications.
 
-I enjoy solving real-world problems, building clean user interfaces and continuously improving my skills through practical projects.
+I enjoy solving real-world problems, learning new technologies and transforming ideas into polished digital products.
 
-Currently focused on mastering the React ecosystem while expanding my backend knowledge to become a Full Stack Developer.
+Currently, my main focus is mastering the React ecosystem before moving into backend development.
 
 ---
 
-# 🚀 Current Focus
+## 🚀 Current Learning Journey
 
-```txt
-✓ React
+```text
+✅ HTML
+✅ CSS
+✅ Responsive Design
+✅ JavaScript (ES6+)
+✅ React
+✅ React Router
+✅ Context API
+✅ React Hook Form
+✅ Local Storage
+✅ Fetch API
+✅ Advanced React Hooks
+   ├─ useRef
+   ├─ useMemo
+   ├─ useCallback
+   ├─ React.memo
+   ├─ Custom Hooks
+   └─ Error Boundaries
 
-✓ Modern JavaScript
+──────────────────────────────
 
-✓ Responsive UI
+📖 Learning Now
 
-◉ REST API
+🟣 REST API
 
-◉ Axios
+──────────────────────────────
 
-◉ TanStack Query
+📌 Next Steps
 
-○ TypeScript
-
-○ Node.js
-
-○ Next.js
+→ Axios
+→ TanStack Query
+→ Zustand
+→ TypeScript
+→ Next.js
+→ Node.js
+→ Express.js
+→ MongoDB
+→ Docker
 ```
 
 ---
 
-# 💻 Tech Stack
+# ⚡ Tech Stack
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js"/>
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode&perline=4" />
 </p>
 
 ---
 
-# 🎯 My Goals
+## 🎯 2026 Goals
 
-- Build production-ready applications
-- Master React ecosystem
-- Learn backend development
-- Contribute to Open Source
-- Become a Full Stack Developer
+- 🚀 Become a Full Stack Developer
+- 💻 Build production-ready applications
+- 🌍 Contribute to Open Source
+- 📚 Master TypeScript & Node.js
+- 📦 Deploy real-world projects
 
 ---
 
-# 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AmiraliAkbariDev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmiraliAkbariDev&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🐍 Contribution Graph
+## 💭 Philosophy
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 💭 Favorite Quote
-
-> *"Great software is built one commit at a time."*
+> *"Every expert was once a beginner who refused to quit."*
 
 ---
 
 <div align="center">
 
-### Thanks for visiting 👋
+### Thanks for visiting my profile! 💜
 
-**Code • Learn • Build • Repeat**
+**Keep Learning • Keep Building • Keep Growing**
 
 </div>
