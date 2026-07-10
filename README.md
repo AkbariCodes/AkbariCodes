@@ -1,9 +1,8 @@
-```text
 <div align="center">
 
 # 👋 Hey, I'm **Amirali Akbari**
 
-### Frontend Developer • React Enthusiast
+### Frontend Developer • React • Learning Node.js & Express • Future Full Stack Engineer
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1200&color=A855F7&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+Developer;Building+Modern+Web+Apps;Future+Full+Stack+Developer" />
 
@@ -15,9 +14,7 @@
 
 I'm **Amirali Akbari**, a frontend developer passionate about building modern, responsive and user-friendly web applications.
 
-I enjoy solving real-world problems, learning new technologies and transforming ideas into polished digital products.
-
-Currently, my main focus is mastering the React ecosystem while also exploring backend development with Node.js and Express.js.
+Currently focused on the React ecosystem while gradually expanding my backend knowledge with **Node.js** and **Express.js** on the path to becoming a Full Stack Developer.
 
 ---
 
@@ -42,11 +39,6 @@ Currently, my main focus is mastering the React ecosystem while also exploring b
    ├─ Custom Hooks
    └─ Error Boundaries
 
-✅ Node.js (Basic)
-✅ Express.js (Basic)
-✅ REST APIs
-✅ MongoDB (Basic)
-
 ──────────────────────────────
 
 📖 Learning Now
@@ -60,14 +52,16 @@ Currently, my main focus is mastering the React ecosystem while also exploring b
 → Zustand
 → TypeScript
 → Next.js
-→ Advanced Node.js
+→ Node.js
+→ Express.js
+→ MongoDB
 → Docker
-→ GraphQL
 ```
 
 ---
 
 # ⚡ Tech Stack
+
 
 ## 💻 Tech Stack
 
@@ -103,23 +97,20 @@ Currently, my main focus is mastering the React ecosystem while also exploring b
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
 
-### 🔙 Backend
+### ⚙️ Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white&style=for-the-badge)
 
 ---
 
 ## 🎯 2026 Goals
 
 - 🚀 Become a Full Stack Developer
-- 💻 Build production-ready applications
-- 🌍 Contribute to Open Source
-- 📚 Master TypeScript & Node.js
-- 📦 Deploy real-world projects
-- 🐳 Learn Docker & Containerization
+- ⚛️ Master the React Ecosystem
+- ⚙️ Build REST APIs with Node.js & Express
+- 🗄️ Learn MongoDB
+- 📦 Deploy production-ready applications
 
 ---
 
@@ -129,7 +120,7 @@ Currently, my main focus is mastering the React ecosystem while also exploring b
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=AkbariCodes&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkbariCodes&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkbariCodesv&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -148,4 +139,3 @@ Currently, my main focus is mastering the React ecosystem while also exploring b
 **Keep Learning • Keep Building • Keep Growing**
 
 </div>
-```
