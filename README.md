@@ -54,7 +54,7 @@ Currently focused on the React ecosystem while gradually expanding my backend kn
 → Next.js
 → Node.js
 → Express.js
-→ MongoDB
+→ PostgreSQL
 → Docker
 ```
 
