@@ -1,3 +1,4 @@
+```text
 <div align="center">
 
 # 👋 Hey, I'm **Amirali Akbari**
@@ -16,7 +17,7 @@ I'm **Amirali Akbari**, a frontend developer passionate about building modern, r
 
 I enjoy solving real-world problems, learning new technologies and transforming ideas into polished digital products.
 
-Currently, my main focus is mastering the React ecosystem before moving into backend development.
+Currently, my main focus is mastering the React ecosystem while also exploring backend development with Node.js and Express.js.
 
 ---
 
@@ -41,6 +42,11 @@ Currently, my main focus is mastering the React ecosystem before moving into bac
    ├─ Custom Hooks
    └─ Error Boundaries
 
+✅ Node.js (Basic)
+✅ Express.js (Basic)
+✅ REST APIs
+✅ MongoDB (Basic)
+
 ──────────────────────────────
 
 📖 Learning Now
@@ -54,16 +60,14 @@ Currently, my main focus is mastering the React ecosystem before moving into bac
 → Zustand
 → TypeScript
 → Next.js
-→ Node.js
-→ Express.js
-→ MongoDB
+→ Advanced Node.js
 → Docker
+→ GraphQL
 ```
 
 ---
 
 # ⚡ Tech Stack
-
 
 ## 💻 Tech Stack
 
@@ -99,6 +103,12 @@ Currently, my main focus is mastering the React ecosystem before moving into bac
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
 
+### 🔙 Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white&style=for-the-badge)
 
 ---
 
@@ -109,6 +119,7 @@ Currently, my main focus is mastering the React ecosystem before moving into bac
 - 🌍 Contribute to Open Source
 - 📚 Master TypeScript & Node.js
 - 📦 Deploy real-world projects
+- 🐳 Learn Docker & Containerization
 
 ---
 
@@ -118,7 +129,7 @@ Currently, my main focus is mastering the React ecosystem before moving into bac
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=AkbariCodes&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkbariCodesv&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkbariCodes&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -137,3 +148,4 @@ Currently, my main focus is mastering the React ecosystem before moving into bac
 **Keep Learning • Keep Building • Keep Growing**
 
 </div>
+```
