@@ -82,6 +82,7 @@ Currently, my main focus is mastering the React ecosystem before moving into bac
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?logo=reacthookform&logoColor=white&style=for-the-badge)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=white&style=for-the-badge)
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?logo=reactquery&logoColor=white&style=for-the-badge)
+![ZUSTAND](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?logo=framer&logoColor=white&style=for-the-badge)
 ![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge)
 
